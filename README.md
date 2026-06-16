@@ -1,4 +1,4 @@
-# 🐒 Me Brimlance
+# Me Brimlance
 
 <p align="center">
   <strong>UIT Information Security student and Linux enthusiast.</strong>
